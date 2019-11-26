@@ -1,0 +1,12 @@
+* Change Password
+- Create new user
+
+Computer Management -> Local User and Groups -> Change Password
+
+Right Click -> Account is Disabled
+
+Don't have acces
+
+Mount windows -> Copy cmd.exe for sticky keys
+
+Mount Windows -> chntpw
